@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<Version>2.3.1</Version>
+		<Authors>孙泽伟</Authors>
+		<Company>EIP开发团队</Company>
+		<Product>Enterprise Information Portal</Product>
+		<Description>EIP数据访问基类实现,包括基础增删改查。</Description>
+	</PropertyGroup>
+	<ItemGroup>
+		<PackageReference Include="Dapper" Version="2.1.35" />
+		<PackageReference Include="DmProvider1.1.0" Version="1.1.0" />
+		<PackageReference Include="MySql.Data" Version="8.3.0" />
+		<PackageReference Include="MySqlConnector" Version="2.3.6" />
+		<PackageReference Include="Npgsql" Version="8.0.2" />
+		<PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
+	</ItemGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\EIP.Common.Models\EIP.Common.Models.csproj" />
+	</ItemGroup>
+	<ItemGroup>
+		<Folder Include="Dll\" />
+	</ItemGroup>
+	<ItemGroup>
+		<Reference Include="Kdbndp">
+			<HintPath>Dll\Kdbndp.dll</HintPath>
+		</Reference>
+	</ItemGroup>
+	<ItemGroup>
+		<None Update="Dll\Kdbndp.dll">
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</None>
+	</ItemGroup>
+</Project>

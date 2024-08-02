@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netstandard2.1</TargetFramework>
+		<Authors>孙泽伟</Authors>
+		<Company>EIP开发团队</Company>
+		<Product>Enterprise Information Portal</Product>
+		<Description>EIP扩展类库</Description>
+		<Version>2.4.0</Version>
+	</PropertyGroup>
+	<ItemGroup>
+		<PackageReference Include="AutoMapper" Version="12.0.1" />
+		<PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+		<PackageReference Include="AngleSharp" Version="[0.16.1]" />
+		<PackageReference Include="AngleSharp.Css" Version="[0.16.4]" />
+		<PackageReference Include="Microsoft.SourceLink.GitHub" Version="1.1.1" PrivateAssets="All" />
+	</ItemGroup>
+</Project>

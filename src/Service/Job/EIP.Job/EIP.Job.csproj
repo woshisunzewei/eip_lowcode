@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.1.35" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Common\EIP.Common.Core\EIP.Common.Core.csproj" />
+    <ProjectReference Include="..\..\..\Common\EIP.Common.Log\EIP.Common.Log.csproj" />
+    <ProjectReference Include="..\..\..\Common\EIP.Common.Message\EIP.Common.Message.csproj" />
+    <ProjectReference Include="..\..\..\Common\EIP.Common.Quartz\EIP.Common.Quartz.csproj" />
+  </ItemGroup>
+
+</Project>

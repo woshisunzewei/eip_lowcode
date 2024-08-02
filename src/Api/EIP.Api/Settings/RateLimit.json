@@ -1,0 +1,50 @@
+﻿{
+  "IpRateLimiting": {
+    "EnableEndpointRateLimiting": true,
+    "StackBlockedRequests": false,
+    "RealIpHeader": "X-Real-IP",
+    "HttpStatusCode": 429,
+    "IpWhitelist": [], //IP白名单
+    "EndpointWhitelist": [
+      "post:/system/material",
+      "get:/system/monitor/serverused",
+      "get:/system/monitor/serverdisk",
+      "get:/system/monitor/serverbase",
+      "post:/dashboard/chart/data/list",
+      "post:/system/agile/config/public/json"
+    ],//接口白名单
+    "ClientWhitelist": [],
+    "GeneralRules": [
+      {
+        "Endpoint": "*",
+        "Period": "1s",
+        "Limit": 10
+      }
+    ]
+  },
+  //ip规则限制
+  "IpRateLimitPolicies": {
+    "IpRules": [
+      //{
+      //  "Ip": "84.247.85.224",
+      //  "Rules": [
+      //    {
+      //      "Endpoint": "*",
+      //      "Period": "1s",
+      //      "Limit": 10
+      //    },
+      //    {
+      //      "Endpoint": "*",
+      //      "Period": "1m",
+      //      "Limit": 2
+      //    },
+      //    {
+      //      "Endpoint": "post:/api/values",
+      //      "Period": "1m",
+      //      "Limit": 5
+      //    }
+      //  ]
+      //}
+    ]
+  }
+}

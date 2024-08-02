@@ -1,0 +1,38 @@
+.week-mode{
+  overflow: hidden;
+  filter: invert(80%);
+}
+.beauty-scroll{
+  scrollbar-color: @primary-color @primary-2;
+  scrollbar-width: thin;
+  -ms-overflow-style:none;
+  position: relative;
+  ::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+    background-color: #f5f5f5;
+}
+
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+    border-radius: 6px;
+    background-color: #f5f5f5;
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 6px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+    background-color: @primary-color;
+}
+
+}
+.split-right{
+  &:not(:last-child) {
+    border-right: 1px solid rgba(98, 98, 98, 0.2);
+  }
+}
+.disabled{
+  cursor: not-allowed;
+  color: @disabled-color;
+  pointer-events: none;
+}

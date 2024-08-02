@@ -1,0 +1,20 @@
+.add_popper {
+    background-color: #000;
+    border-radius: 8px;
+    box-shadow: 0 0 20px #DEDEDE;
+}
+
+.add_popper>.popper__arrow {
+    border-right-color: #000 !important;
+    border-left-color: #000 !important;
+}
+
+.add_popper>.popper__arrow::after {
+    border-right-color: #000 !important;
+    border-left-color: #000 !important;
+}
+
+.conditionFilter_Popover {
+    min-width: 0;
+    padding: 8px;
+}

@@ -1,0 +1,25 @@
+{
+  "SenparcSetting": {
+    "IsDebug": true,
+    "DefaultCacheNamespace": "DefaultCache",
+    "Cache_Redis_Configuration": "#{Cache_Redis_Configuration}#",
+    "Cache_Memcached_Configuration": "#{Cache_Memcached_Configuration}#",
+    "SenparcUnionAgentKey": "#{SenparcUnionAgentKey}#"
+  },
+  "SenparcWeixinSetting": {
+    "IsDebug": true,
+    "Token": "PAssw0rd3E2W1Q",
+    "EncodingAESKey": "gr78oLCKg1d47NY1oXvP8DxqAEQMvzNeGEkFm2ihmjy",
+    "WeixinAppId": "wx82efa0f25cdb5e9c",
+    "WeixinAppSecret": "08ac2f09718ffd38c29cc5ab2e7a222a",
+    "WeixinCorpId": "wwa4e4e3d84a4b193e",
+    "WeixinCorpAgentId": "1000002",
+    "WeixinCorpSecret": "TLir--nTDvgZ98kwkDMmeJ7MNtkPrSnvucppalEYmJk",
+    "WeixinCorpToken": "dGqOytHlKwV7Y3H22GCK",
+    "WeixinCorpEncodingAESKey": "r4bbLdjLIHZlNhZwtSBayt3YJxrJvhNkixVURWD9KIc",
+    "WxOpenAppId": "wxf61ee2c7f61bcdb5",
+    "WxOpenAppSecret": "5c1e2757f42427dcd009b092b5e74e2a",
+    "WxOpenToken": null,
+    "WxOpenEncodingAESKey": null
+  }
+}

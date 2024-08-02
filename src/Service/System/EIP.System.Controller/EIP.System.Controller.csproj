@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>bin\Debug\EIP.System.Controller.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <OutputPath>bin\Debug\net5.0\</OutputPath>
+    <DocumentationFile>bin\Debug\net5.0\EIP.System.Controller.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="QRCoder" Version="1.4.3" />
+    <PackageReference Include="SkiaSharp" Version="2.88.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Common\EIP.Common.Controller\EIP.Common.Controller.csproj" />
+    <ProjectReference Include="..\..\..\Common\EIP.Common.JwtAuthorize\EIP.Common.JwtAuthorize.csproj" />
+    <ProjectReference Include="..\..\..\Common\EIP.Common.Message\EIP.Common.Message.csproj" />
+    <ProjectReference Include="..\..\..\Common\EIP.Common.OAuth\EIP.Common.OAuth.csproj" />
+    <ProjectReference Include="..\..\Job\EIP.Job\EIP.Job.csproj" />
+    <ProjectReference Include="..\EIP.System.Logic\EIP.System.Logic.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Aspose.Words">
+      <HintPath>..\..\..\..\dll\Aspose.Words.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

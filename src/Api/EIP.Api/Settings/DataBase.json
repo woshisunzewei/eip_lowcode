@@ -1,0 +1,5 @@
+{
+  "Wms": {
+    "ConnectionString": "database=wms;Server=localhost;Uid=root;Pwd=P@ssw0rd;port=3306;charset=utf8mb4;SslMode=None"
+  }
+}

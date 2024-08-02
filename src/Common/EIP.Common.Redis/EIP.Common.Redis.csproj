@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<Authors>孙泽伟</Authors>
+		<Company>EIP开发团队</Company>
+		<Product>Enterprise Information Portal</Product>
+		<Description>EIP Redis操作</Description>
+		<Version>2.4.0</Version>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.Extensions.Caching.Abstractions" Version="8.0.0" />
+		<PackageReference Include="SafeObjectPool" Version="3.0.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\EIP.Common.Core\EIP.Common.Core.csproj" />
+	</ItemGroup>
+
+</Project>

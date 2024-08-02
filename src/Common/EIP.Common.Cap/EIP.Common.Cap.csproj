@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	  <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+	<ItemGroup>
+		<PackageReference Include="DotNetCore.CAP" Version="8.1.1" />
+		<PackageReference Include="DotNetCore.CAP.Dashboard" Version="8.1.1" />
+		<PackageReference Include="DotNetCore.CAP.MySql" Version="8.1.1" />
+		<PackageReference Include="DotNetCore.CAP.RabbitMQ" Version="8.1.1" />
+		<PackageReference Include="DotNetCore.CAP.RedisStreams" Version="8.1.1" />
+		<PackageReference Include="DotNetCore.CAP.SqlServer" Version="8.1.1" />
+	</ItemGroup>
+</Project>

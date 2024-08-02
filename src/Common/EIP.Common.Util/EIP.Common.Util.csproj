@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Authors>孙泽伟</Authors>
+    <Company>EIP开发团队</Company>
+    <Product>Enterprise Information Portal</Product>
+    <Description>EIP 常用工具帮助类</Description>
+    <Version>2.4.0</Version>
+  </PropertyGroup>
+  <ItemGroup>
+	  <PackageReference Include="IdGen" Version="3.0.3" />
+    <PackageReference Include="MailKit" Version="2.1.3" />
+    <PackageReference Include="MimeKit" Version="2.1.3" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Features" Version="2.1.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+    <PackageReference Include="NLog.Web.AspNetCore" Version="4.5.4" />
+    <PackageReference Include="SharpZipLib" Version="1.3.3" />
+    <PackageReference Include="SkiaSharp" Version="2.88.3" />
+    <PackageReference Include="System.Text.Encoding.CodePages" Version="6.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="2.1.1" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="2.1.1" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="2.1.1" />
+    <PackageReference Include="Microsoft.Extensions.Options" Version="2.1.1" />
+    <PackageReference Include="Microsoft.Extensions.Options.ConfigurationExtensions" Version="2.1.0" />
+    <PackageReference Include="SixLabors.ImageSharp" Version="1.0.0-beta0006" />
+    <PackageReference Include="SixLabors.ImageSharp.Drawing" Version="1.0.0-beta0006" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EIP.Common.Extension\EIP.Common.Extension.csproj" />
+  </ItemGroup>
+
+</Project>

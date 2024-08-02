@@ -1,0 +1,205 @@
+ [{
+         "value": "110000000000",
+         "label": "北京市",
+         "parentId": "100000000000",
+         "levelType": "1"
+     },
+     {
+         "value": "120000000000",
+         "label": "天津市",
+         "parentId": "100000000000",
+         "levelType": "1"
+     },
+     {
+         "value": "130000000000",
+         "label": "河北省",
+         "parentId": "100000000000",
+         "levelType": "1"
+     },
+     {
+         "value": "140000000000",
+         "label": "山西省",
+         "parentId": "100000000000",
+         "levelType": "1"
+     },
+     {
+         "value": "150000000000",
+         "label": "内蒙古自治区",
+         "parentId": "100000000000",
+         "levelType": "1"
+     },
+     {
+         "value": "210000000000",
+         "label": "辽宁省",
+         "parentId": "100000000000",
+         "levelType": "1"
+     },
+     {
+         "value": "220000000000",
+         "label": "吉林省",
+         "parentId": "100000000000",
+         "levelType": "1"
+     },
+     {
+         "value": "230000000000",
+         "label": "黑龙江省",
+         "parentId": "100000000000",
+         "levelType": "1"
+     },
+     {
+         "value": "310000000000",
+         "label": "上海市",
+         "parentId": "100000000000",
+         "levelType": "1"
+     },
+     {
+         "value": "320000000000",
+         "label": "江苏省",
+         "parentId": "100000000000",
+         "levelType": "1"
+     },
+     {
+         "value": "330000000000",
+         "label": "浙江省",
+         "parentId": "100000000000",
+         "levelType": "1"
+     },
+     {
+         "value": "340000000000",
+         "label": "安徽省",
+         "parentId": "100000000000",
+         "levelType": "1"
+     },
+     {
+         "value": "350000000000",
+         "label": "福建省",
+         "parentId": "100000000000",
+         "levelType": "1"
+     },
+     {
+         "value": "360000000000",
+         "label": "江西省",
+         "parentId": "100000000000",
+         "levelType": "1"
+     },
+     {
+         "value": "370000000000",
+         "label": "山东省",
+         "parentId": "100000000000",
+         "levelType": "1"
+     },
+     {
+         "value": "410000000000",
+         "label": "河南省",
+         "parentId": "100000000000",
+         "levelType": "1"
+     },
+     {
+         "value": "420000000000",
+         "label": "湖北省",
+         "parentId": "100000000000",
+         "levelType": "1"
+     },
+     {
+         "value": "430000000000",
+         "label": "湖南省",
+         "parentId": "100000000000",
+         "levelType": "1"
+     },
+     {
+         "value": "440000000000",
+         "label": "广东省",
+         "parentId": "100000000000",
+         "levelType": "1"
+     },
+     {
+         "value": "450000000000",
+         "label": "广西壮族自治区",
+         "parentId": "100000000000",
+         "levelType": "1"
+     },
+     {
+         "value": "460000000000",
+         "label": "海南省",
+         "parentId": "100000000000",
+         "levelType": "1"
+     },
+     {
+         "value": "500000000000",
+         "label": "重庆市",
+         "parentId": "100000000000",
+         "levelType": "1"
+     },
+     {
+         "value": "510000000000",
+         "label": "四川省",
+         "parentId": "100000000000",
+         "levelType": "1"
+     },
+     {
+         "value": "520000000000",
+         "label": "贵州省",
+         "parentId": "100000000000",
+         "levelType": "1"
+     },
+     {
+         "value": "530000000000",
+         "label": "云南省",
+         "parentId": "100000000000",
+         "levelType": "1"
+     },
+     {
+         "value": "540000000000",
+         "label": "西藏自治区",
+         "parentId": "100000000000",
+         "levelType": "1"
+     },
+     {
+         "value": "610000000000",
+         "label": "陕西省",
+         "parentId": "100000000000",
+         "levelType": "1"
+     },
+     {
+         "value": "620000000000",
+         "label": "甘肃省",
+         "parentId": "100000000000",
+         "levelType": "1"
+     },
+     {
+         "value": "630000000000",
+         "label": "青海省",
+         "parentId": "100000000000",
+         "levelType": "1"
+     },
+     {
+         "value": "640000000000",
+         "label": "宁夏回族自治区",
+         "parentId": "100000000000",
+         "levelType": "1"
+     },
+     {
+         "value": "650000000000",
+         "label": "新疆维吾尔自治区",
+         "parentId": "100000000000",
+         "levelType": "1"
+     },
+     {
+         "value": "8113135772653",
+         "label": "香港特别行政区",
+         "parentId": "100000000000",
+         "levelType": "1"
+     },
+     {
+         "value": "8212407077174",
+         "label": "澳门特别行政区",
+         "parentId": "100000000000",
+         "levelType": "1"
+     },
+     {
+         "value": "7112684281636",
+         "label": "台湾省",
+         "parentId": "100000000000",
+         "levelType": "1"
+     }
+ ]

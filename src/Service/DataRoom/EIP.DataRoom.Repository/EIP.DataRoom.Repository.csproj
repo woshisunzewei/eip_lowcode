@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Common\EIP.Common.Repository\EIP.Common.Repository.csproj" />
+    <ProjectReference Include="..\..\Base\EIP.Base.Repository\EIP.Base.Repository.csproj" />
+    <ProjectReference Include="..\..\System\EIP.System.Repository\EIP.System.Repository.csproj" />
+    <ProjectReference Include="..\EIP.DataRoom.Models\EIP.DataRoom.Models.csproj" />
+  </ItemGroup>
+
+</Project>

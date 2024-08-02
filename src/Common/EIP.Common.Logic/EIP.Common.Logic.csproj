@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<Version>2.3.0</Version>
+		<Authors>孙泽伟</Authors>
+		<Company>EIP开发团队</Company>
+		<Product>Enterprise Information Portal</Product>
+		<Description>EIP业务逻辑基类实现,包括基础增删改查。</Description>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\EIP.Common.Cache\EIP.Common.Cache.csproj" />
+		<ProjectReference Include="..\EIP.Common.Repository\EIP.Common.Repository.csproj" />
+	</ItemGroup>
+
+</Project>

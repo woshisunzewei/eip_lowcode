@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Version>2.4.1</Version>
+    <Authors>孙泽伟</Authors>
+    <Company>EIP开发团队</Company>
+    <Product>Enterprise Information Portal</Product>
+    <Description>EIP控制器基础类,提供验证异常处理等</Description>
+  </PropertyGroup>
+
+ <ItemGroup>
+   <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="8.0.3" />
+   <PackageReference Include="Microsoft.Extensions.DependencyModel" Version="8.0.0" />
+    <PackageReference Include="Microsoft.Extensions.PlatformAbstractions" Version="1.1.0" />
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="9.0.0" />
+    <PackageReference Include="JWT" Version="10.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EIP.Common.Log\EIP.Common.Log.csproj" />
+    <ProjectReference Include="..\EIP.Common.Models\EIP.Common.Models.csproj" />
+    <ProjectReference Include="..\EIP.Common.RateLimit\EIP.Common.RateLimit.csproj" />
+  </ItemGroup>
+
+</Project>

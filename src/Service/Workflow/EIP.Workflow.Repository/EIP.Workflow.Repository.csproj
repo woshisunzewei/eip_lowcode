@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Common\EIP.Common.Repository\EIP.Common.Repository.csproj" />
+    <ProjectReference Include="..\..\Base\EIP.Base.Repository\EIP.Base.Repository.csproj" />
+    <ProjectReference Include="..\EIP.Workflow.Models\EIP.Workflow.Models.csproj" />
+  </ItemGroup>
+
+</Project>

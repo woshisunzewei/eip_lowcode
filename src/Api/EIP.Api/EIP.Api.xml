@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EIP.Api</name>
+    </assembly>
+    <members>
+        <member name="T:EIP.Api.Controller.SubscribeController">
+            <summary>
+            订阅
+            </summary>
+        </member>
+        <member name="M:EIP.Api.Controller.SubscribeController.#ctor(EIP.System.Logic.ISystemAgileDataLogLogic,EIP.Workflow.Engine.Logic.IWorkflowEngineLogic)">
+            <summary>
+            
+            </summary>
+            <param name="agileDataLogLogic"></param>
+            <param name="workflowEngineLogic"></param>
+        </member>
+        <member name="M:EIP.Api.Controller.SubscribeController.MessageSubscribe(EIP.Workflow.Engine.Models.Dtos.ProcessInstance.WorkflowEngineRunProcessInput)">
+            <summary>
+            消息订阅
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <member name="M:EIP.Api.Controller.SubscribeController.Save(EIP.Base.Models.Entities.System.SystemAgileDataLog)">
+            <summary>
+            保存敏捷开发数据日志
+            </summary>
+            <param name="input">主键信息</param>
+            <returns></returns>
+        </member>
+        <member name="M:EIP.Api.Middleware.CustomizationLimitMiddleware.ReturnQuotaExceededResponse(Microsoft.AspNetCore.Http.HttpContext,AspNetCoreRateLimit.RateLimitRule,System.String)">
+            <summary>
+            当请求过于频繁时 接口重写
+            </summary>
+            <param name="httpContext"></param>
+            <param name="rule"></param>
+            <param name="retryAfter"></param>
+            <returns></returns>
+        </member>
+        <member name="T:EIP.Api.Setup.Caching">
+            <summary>
+            缓存
+            </summary>
+        </member>
+        <member name="M:EIP.Api.Setup.Caching.AddCachingSetUp(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            缓存
+            </summary>
+            <param name="services"></param>
+            <exception cref="T:System.ArgumentNullException"></exception>
+        </member>
+        <member name="T:EIP.Api.Setup.Cap">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:EIP.Api.Setup.Cap.AddCapSetUp(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Cap
+            </summary>
+            <param name="services"></param>
+            <exception cref="T:System.ArgumentNullException"></exception>
+        </member>
+        <member name="T:EIP.Api.Setup.Captcha">
+            <summary>
+            验证码
+            </summary>
+        </member>
+        <member name="M:EIP.Api.Setup.Captcha.AddCaptchaSetUp(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            验证码
+            </summary>
+            <param name="services"></param>
+            <exception cref="T:System.ArgumentNullException"></exception>
+        </member>
+        <member name="T:EIP.Api.Setup.Compression">
+            <summary>
+            压缩
+            </summary>
+        </member>
+        <member name="M:EIP.Api.Setup.Compression.AddCompressionSetUp(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            压缩
+            </summary>
+            <param name="services"></param>
+            <exception cref="T:System.ArgumentNullException"></exception>
+        </member>
+        <member name="T:EIP.Api.Setup.Cors">
+            <summary>
+            跨域
+            </summary>
+        </member>
+        <member name="M:EIP.Api.Setup.Cors.AddCorsSetUp(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            跨域
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="T:EIP.Api.Setup.Log">
+            <summary>
+            日志
+            </summary>
+        </member>
+        <member name="M:EIP.Api.Setup.Log.AddNLogSetUp(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            日志
+            </summary>
+            <param name="services"></param>
+            <exception cref="T:System.ArgumentNullException"></exception>
+        </member>
+        <member name="T:EIP.Api.Setup.Mvc">
+            <summary>
+            Mvc
+            </summary>
+        </member>
+        <member name="M:EIP.Api.Setup.Mvc.AddMvcSetUp(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            
+            </summary>
+            <param name="services"></param>
+            <exception cref="T:System.ArgumentNullException"></exception>
+        </member>
+        <member name="T:EIP.Api.Setup.Swagger">
+            <summary>
+            Swagger
+            </summary>
+        </member>
+        <member name="M:EIP.Api.Setup.Swagger.AddSwaggerSetUp(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Swagger
+            </summary>
+            <param name="services"></param>
+            <exception cref="T:System.ArgumentNullException"></exception>
+        </member>
+        <member name="T:ConsoleLogo">
+            <summary>
+            控制台logo
+            </summary>
+        </member>
+        <member name="M:ConsoleLogo.AddConsoleLogoSetUp(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            
+            </summary>
+            <param name="services"></param>
+        </member>
+    </members>
+</doc>

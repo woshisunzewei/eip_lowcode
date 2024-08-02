@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Common\EIP.Common.Logic\EIP.Common.Logic.csproj" />
+    <ProjectReference Include="..\..\..\Common\EIP.Common.Log\EIP.Common.Log.csproj" />
+    <ProjectReference Include="..\..\..\Common\EIP.Common.Message\EIP.Common.Message.csproj" />
+    <ProjectReference Include="..\..\System\EIP.System.Logic\EIP.System.Logic.csproj" />
+    <ProjectReference Include="..\EIP.Workflow.Repository\EIP.Workflow.Repository.csproj" />
+  </ItemGroup>
+	<ItemGroup>
+		<PackageReference Include="Senparc.Weixin.WxOpen" Version="3.17.6" />
+		<PackageReference Include="TopSdk.Core" Version="2019.4.21.3" />
+	</ItemGroup>
+</Project>

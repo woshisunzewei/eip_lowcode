@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Common\EIP.Common.Logic\EIP.Common.Logic.csproj" />
+    <ProjectReference Include="..\..\System\EIP.System.Logic\EIP.System.Logic.csproj" />
+    <ProjectReference Include="..\EIP.DataRoom.Repository\EIP.DataRoom.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

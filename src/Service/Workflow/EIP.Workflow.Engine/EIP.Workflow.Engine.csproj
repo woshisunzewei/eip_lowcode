@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	  <TargetFramework>net8.0</TargetFramework>
+    <Authors>孙泽伟</Authors>
+    <Company>孙泽伟</Company>
+    <Product>Enterprise Information Portal</Product>
+    <Description>流程引擎处理模型</Description>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>bin\Debug\EIP.Workflow.Engine.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>bin\Debug\EIP.Workflow.Engine.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Common\EIP.Common.Cap\EIP.Common.Cap.csproj" />
+    <ProjectReference Include="..\..\..\Common\EIP.Common.Message\EIP.Common.Message.csproj" />
+    <ProjectReference Include="..\EIP.Workflow.Logic\EIP.Workflow.Logic.csproj" />
+  </ItemGroup>
+
+</Project>

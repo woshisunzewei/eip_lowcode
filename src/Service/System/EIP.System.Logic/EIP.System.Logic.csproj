@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+	</PropertyGroup>
+	<ItemGroup>
+		<PackageReference Include="Lazy.Captcha.Core" Version="2.0.7" />
+		<PackageReference Include="Senparc.Weixin.AspNet" Version="1.1.1" />
+		<PackageReference Include="Senparc.Weixin.MP.Middleware" Version="1.1.1" />
+		<PackageReference Include="Senparc.Weixin.Work" Version="3.19.0" />
+		<PackageReference Include="Senparc.Weixin.Work.Middleware" Version="1.1.1" />
+		<PackageReference Include="Senparc.Weixin.WxOpen" Version="3.17.6" />
+		<PackageReference Include="AlibabaCloud.SDK.Dingtalk" Version="2.1.11" />
+		<PackageReference Include="Senparc.Weixin.WxOpen.Middleware" Version="1.1.1" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\..\..\Common\EIP.Common.Cap\EIP.Common.Cap.csproj" />
+		<ProjectReference Include="..\..\..\Common\EIP.Common.Config\EIP.Common.Config.csproj" />
+		<ProjectReference Include="..\..\..\Common\EIP.Common.Logic\EIP.Common.Logic.csproj" />
+		<ProjectReference Include="..\..\..\Common\EIP.Common.Log\EIP.Common.Log.csproj" />
+		<ProjectReference Include="..\..\..\Common\EIP.Common.Message\EIP.Common.Message.csproj" />
+		<ProjectReference Include="..\..\Base\EIP.Base.Repository\EIP.Base.Repository.csproj" />
+		<ProjectReference Include="..\EIP.System.Repository\EIP.System.Repository.csproj" />
+	</ItemGroup>
+	<ItemGroup>
+		<Reference Include="TopSdk">
+			<HintPath>..\..\..\..\dll\TopSdk.dll</HintPath>
+		</Reference>
+	</ItemGroup>
+</Project>

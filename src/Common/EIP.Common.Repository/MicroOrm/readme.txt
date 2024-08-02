@@ -1,0 +1,2 @@
+﻿升级提示
+不要删除SqlMapperUtil及Partials

@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Version>2.4.0</Version>
+    <Authors>孙泽伟</Authors>
+    <Company>EIP开发团队</Company>
+    <Product>Enterprise Information Portal</Product>
+    <Description>EIP Jwt认证</Description>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.3" />
+    <PackageReference Include="Microsoft.AspNetCore.Authorization" Version="8.0.3" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EIP.Common.Core\EIP.Common.Core.csproj" />
+  </ItemGroup>
+</Project>

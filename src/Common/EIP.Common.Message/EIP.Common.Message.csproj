@@ -1,0 +1,41 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<Authors>孙泽伟</Authors>
+		<Company>EIP开发团队</Company>
+		<Product>Enterprise Information Portal</Product>
+		<Description>EIP消息类库,短信,站内通知 ,邮件</Description>
+		<Version>2.4.0</Version>
+	</PropertyGroup>
+	<ItemGroup>
+		<PackageReference Include="aliyun-net-sdk-core" Version="1.5.11" />
+		<PackageReference Include="Microsoft.AspNetCore.SignalR.Core" Version="1.1.0" />
+	</ItemGroup>
+	<ItemGroup>
+		<Compile Remove="Mb\**" />
+		<Compile Remove="WebChat\**" />
+		<EmbeddedResource Remove="Mb\**" />
+		<EmbeddedResource Remove="WebChat\**" />
+		<None Remove="Mb\**" />
+		<None Remove="WebChat\**" />
+	</ItemGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\EIP.Common.Config\EIP.Common.Config.csproj" />
+		<ProjectReference Include="..\EIP.Common.Log\EIP.Common.Log.csproj" />
+		<ProjectReference Include="..\EIP.Common.Models\EIP.Common.Models.csproj" />
+	</ItemGroup>
+	<ItemGroup>
+		<Folder Include="MiniProgram\" />
+		<Folder Include="WebSite\Hub\" />
+	</ItemGroup>
+	<ItemGroup>
+		<Reference Include="GetuiServerApiSDK">
+			<HintPath>App\Dll\GetuiServerApiSDK.dll</HintPath>
+		</Reference>
+		<Reference Include="Google.ProtocolBuffers">
+			<HintPath>App\Dll\Google.ProtocolBuffers.dll</HintPath>
+		</Reference>
+	</ItemGroup>
+
+</Project>
