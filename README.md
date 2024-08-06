@@ -17,13 +17,13 @@
 
 ------------------------------------------------------------------------
 
-官方网站：http://eipflow.com/
+官方网站：https://www.eipflow.com/
 
 QQ群：594093505
 
 
-[![](https://img.shields.io/badge/点击访问官方网站-coreshop.cn-brightgreen)](https://www.coreshop.cn/)  [![](https://img.shields.io/badge/点击加QQ群①-70494974-red)](https://qm.qq.com/cgi-bin/qm/qr?k=pgFUcMcD1gpx68cm4C0jSReWh1lItZiM&jump_from=webapi&authKey=6slouhPqo6W9PDabQZehU/uH+At77rw0qVTjOhuGFyXGohIyMYwvIzCFkQ65pHZe)
-[![](https://img.shields.io/badge/点击加QQ群②-809739299-red)](https://qm.qq.com/cgi-bin/qm/qr?k=XT_VWu88BJTpfeeKuSxYILsEMUwWySx2&jump_from=webapi&authKey=l5okP36s2gICEoBWftUrGg190va0ZlvcMwbDJZM2e9Z7i0c0gLCV8YCTvbP1IMsd)
+[![](https://img.shields.io/badge/点击访问官方网站-eipflow.com-brightgreen)](https://www.eipflow.com/)  [![](https://img.shields.io/badge/点击加QQ群-594093505-red)](https://qm.qq.com/cgi-bin/qm/qr?k=pgFUcMcD1gpx68cm4C0jSReWh1lItZiM&jump_from=webapi&authKey=6slouhPqo6W9PDabQZehU/uH+At77rw0qVTjOhuGFyXGohIyMYwvIzCFkQ65pHZe)
+
 
 
 ------------------------------------------------------------------------
