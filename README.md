@@ -64,7 +64,7 @@ QQ群：594093505
 
 | 后端 | 截图 |
 |---------------------|---------------------|
-| ![输入图片说明](src/Images/1.png)  | ![截图](https://gitee.com/CoreUnion/CoreShop/raw/master/.gitee/coreshop/images/Admin/02.png)  |
+| ![输入图片说明](src/Images/1.png)  | ![输入图片说明](src/Images/2.png)  |
 | ![截图](https://gitee.com/CoreUnion/CoreShop/raw/master/.gitee/coreshop/images/Admin/03.png)  | ![截图](https://gitee.com/CoreUnion/CoreShop/raw/master/.gitee/coreshop/images/Admin/04.png)  |
 | ![截图](https://gitee.com/CoreUnion/CoreShop/raw/master/.gitee/coreshop/images/Admin/05.png)  | ![截图](https://gitee.com/CoreUnion/CoreShop/raw/master/.gitee/coreshop/images/Admin/06.png)  |
 | ![截图](https://gitee.com/CoreUnion/CoreShop/raw/master/.gitee/coreshop/images/Admin/07.png)  | ![截图](https://gitee.com/CoreUnion/CoreShop/raw/master/.gitee/coreshop/images/Admin/08.png)  |
