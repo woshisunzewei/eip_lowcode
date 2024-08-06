@@ -1,14 +1,8 @@
-
-
-<p align="center">
-    <img alt="CoreShoplogo" src="https://gitee.com/CoreUnion/CoreShop/raw/master/.gitee/coreshop/images/Logo/logo.png" width="602" height="175" style="margin-bottom: 10px;">
-</p>
-
 <div align="center">
 
-<h3 align="center">核心商城系统（CoreShop）</h3>
+<h3 align="center">EIP低代码平台</h3>
 
-<h4 align="center">支持可视化布局的.Net商城系统</h4>
+<h4 align="center">支持权限控制，表单设计，流程设计，自动化的.NET 低代码平台</h4>
 
 [![star](https://gitee.com/CoreUnion/CoreShop/badge/star.svg)](https://gitee.com/CoreUnion/CoreShop.git) [![fork](https://gitee.com/CoreUnion/CoreShop/badge/fork.svg)](https://gitee.com/CoreUnion/CoreShop.git)
 [![GitHub stars](https://img.shields.io/github/stars/CoreUnion/CoreShop?logo=github)](https://github.com/CoreUnion/CoreShop) 
