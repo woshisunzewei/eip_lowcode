@@ -22,7 +22,7 @@
 QQ群：594093505
 
 
-[![](https://img.shields.io/badge/点击访问官方网站-eipflow.com-brightgreen)](https://www.eipflow.com/)  [![](https://img.shields.io/badge/点击加QQ群-594093505-red)](https://qm.qq.com/cgi-bin/qm/qr?k=pgFUcMcD1gpx68cm4C0jSReWh1lItZiM&jump_from=webapi&authKey=6slouhPqo6W9PDabQZehU/uH+At77rw0qVTjOhuGFyXGohIyMYwvIzCFkQ65pHZe)
+[![](https://img.shields.io/badge/点击访问官方网站-eipflow.com-brightgreen)](https://www.eipflow.com/)  [![](https://img.shields.io/badge/点击加QQ群-594093505-red)](https://qm.qq.com/cgi-bin/qm/qr?k=O--SqKyF7yvjGXceIbVWRFUBIU2RNpb7&jump_from=webapi&authKey=Pu4IyVyDkfsUdT3YTobVpNo1DDLeDgU1qJ7n9skLidTBeE2aJT9T5hkeHv8L8xiD)
 
 
 
