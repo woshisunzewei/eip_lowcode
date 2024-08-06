@@ -4,7 +4,7 @@
 
 <h4 align="center">支持权限控制，表单设计，流程设计，自动化的.NET 低代码平台</h4>
 
-[![star](https://gitee.com/CoreUnion/CoreShop/badge/star.svg)](https://gitee.com/CoreUnion/CoreShop.git) [![fork](https://gitee.com/CoreUnion/CoreShop/badge/fork.svg)](https://gitee.com/CoreUnion/CoreShop.git)
+[![star](https://gitee.com/sunzewei/eip_lowcode/badge/star.svg)](https://gitee.com/sunzewei/eip_lowcode.git) [![fork](https://gitee.com/sunzewei/eip_lowcode/badge/fork.svg)](https://gitee.com/sunzewei/eip_lowcode.git)
 [![GitHub stars](https://img.shields.io/github/stars/CoreUnion/CoreShop?logo=github)](https://github.com/CoreUnion/CoreShop) 
 [![GitHub forks](https://img.shields.io/github/forks/CoreUnion/CoreShop?logo=github)](https://github.com/CoreUnion/CoreShop)
 <a target="_blank" href="https://gitee.com/CoreUnion/CoreShop/blob/master/LICENSE"><img src="https://img.shields.io/github/license/CoreUnion/CoreShop.svg?logo=git&logoColor=red" ></img></a>
