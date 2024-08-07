@@ -114,7 +114,7 @@ QQ群：594093505
 | Nlog | 日志组件 |  [![nuget](https://img.shields.io/nuget/v/NLog.Web.AspNetCore?cacheSeconds=10800)](https://www.nuget.org/packages/NLog.Web.AspNetCore/)  [![nuget](https://img.shields.io/nuget/dt/NLog.Web.AspNetCore)](https://www.nuget.org/packages/NLog.Web.AspNetCore/) |  
 | Redis | 数据缓存 |   [![nuget](https://img.shields.io/nuget/v/StackExchange.Redis?cacheSeconds=10800)](https://www.nuget.org/packages/StackExchange.Redis/)  [![nuget](https://img.shields.io/nuget/dt/StackExchange.Redis)](https://www.nuget.org/packages/StackExchange.Redis/) |  
 | Jwt | 授权认证 |  [![nuget](https://img.shields.io/nuget/v/IdentityModel?cacheSeconds=10800)](https://www.nuget.org/packages/IdentityModel/)  [![nuget](https://img.shields.io/nuget/dt/IdentityModel)](https://www.nuget.org/packages/IdentityModel/) |  
-| Quartz.net | 定时任务 |   |  
+| Quartz.net | 定时任务 | https://www.quartz-scheduler.net/  |  
 
 
 #### 🍭 后端技术看点
