@@ -110,7 +110,6 @@ QQ群：594093505
 | AutoFac | IOC框架 |  [![nuget](https://img.shields.io/nuget/v/Autofac.Extensions.DependencyInjection?cacheSeconds=10800)](https://www.nuget.org/packages/Autofac.Extensions.DependencyInjection/)  [![nuget](https://img.shields.io/nuget/dt/Autofac.Extensions.DependencyInjection)](https://www.nuget.org/packages/Autofac.Extensions.DependencyInjection/) |  
 | Dapper | ORM框架 |  https://github.com/phnx47/dapper-repositories.git |  
 | AutoMapper | 实体映射 |  [![nuget](https://img.shields.io/nuget/v/AutoMapper?cacheSeconds=10800)](https://www.nuget.org/packages/AutoMapper/)  [![nuget](https://img.shields.io/nuget/dt/AutoMapper)](https://www.nuget.org/packages/AutoMapper/) |  
-
 | Nlog | 日志组件 |  [![nuget](https://img.shields.io/nuget/v/NLog.Web.AspNetCore?cacheSeconds=10800)](https://www.nuget.org/packages/NLog.Web.AspNetCore/)  [![nuget](https://img.shields.io/nuget/dt/NLog.Web.AspNetCore)](https://www.nuget.org/packages/NLog.Web.AspNetCore/) |  
 | Redis | 数据缓存 |   [![nuget](https://img.shields.io/nuget/v/StackExchange.Redis?cacheSeconds=10800)](https://www.nuget.org/packages/StackExchange.Redis/)  [![nuget](https://img.shields.io/nuget/dt/StackExchange.Redis)](https://www.nuget.org/packages/StackExchange.Redis/) |  
 | Jwt | 授权认证 |  [![nuget](https://img.shields.io/nuget/v/IdentityModel?cacheSeconds=10800)](https://www.nuget.org/packages/IdentityModel/)  [![nuget](https://img.shields.io/nuget/dt/IdentityModel)](https://www.nuget.org/packages/IdentityModel/) |  
