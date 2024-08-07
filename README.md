@@ -119,17 +119,15 @@ QQ群：594093505
 ### 📀 开发环境
 
 - Visual Studio 2022 +
-- .NET 7 SDK +
-- HBuilderX
-- 微信开发者工具
+- .NET 8 SDK +
 - SQL Server Management Studio
-- Navicat for MySQL / Sqlyog
-- Redis Desktop Manager
+- Navicat for MySQL
+- Another Redis Desktop Manager
 
 ### 💝 运维环境
 
 - [x]  （必选）Windows IIS7.5+ / Docker / k8s等支持环境
-- [x]  （必选）sqlserver 2012R2+ / MySQL 5.7+
+- [x]  （必选）sqlserver 2012R2+ / MySQL 8.0+
 - [x]  （必选）Redis 5.0+
 - [x]  （必选）支持https协议的域名
 - [x]  （可选）阿里云OSS/腾讯云COS
