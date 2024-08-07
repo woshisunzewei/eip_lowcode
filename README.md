@@ -102,7 +102,7 @@ QQ群：594093505
 
 | 技术 | 名称 | 版本 | 
 | --- | --- | --- | 
-| Asp.net Core MVC  | 应用框架 | [![nuget](https://img.shields.io/nuget/v/Microsoft.AspNetCore.Mvc.Core?cacheSeconds=10800)](https://www.nuget.org/packages/Microsoft.AspNetCore.Mvc.Core/)  [![nuget](https://img.shields.io/nuget/dt/Microsoft.AspNetCore.Mvc.Core)](https://www.nuget.org/packages/Microsoft.AspNetCore.Mvc.Core/) |  
+| Asp.net Core MVC  | 应用框架 ](https://www.nuget.org/packages/Microsoft.AspNetCore.Mvc.Core/)  [![nuget](https://img.shields.io/nuget/dt/Microsoft.AspNetCore.Mvc.Core)](https://www.nuget.org/packages/Microsoft.AspNetCore.Mvc.Core/) |  
 | Asp.net Core WebApi  | Api框架 |  [![nuget](https://img.shields.io/nuget/v/Microsoft.AspNet.WebApi.Core?cacheSeconds=10800)](https://www.nuget.org/packages/Microsoft.AspNet.WebApi.Core/)  [![nuget](https://img.shields.io/nuget/dt/Microsoft.AspNet.WebApi.Core)](https://www.nuget.org/packages/Microsoft.AspNet.WebApi.Core/) |  
 | Swagger2 | Api文档 | [![nuget](https://img.shields.io/nuget/v/Swashbuckle.AspNetCore?cacheSeconds=10800)](https://www.nuget.org/packages/Swashbuckle.AspNetCore/)  [![nuget](https://img.shields.io/nuget/dt/Swashbuckle.AspNetCore)](https://www.nuget.org/packages/Swashbuckle.AspNetCore/) |  
 | AutoFac | IOC框架 |  [![nuget](https://img.shields.io/nuget/v/Autofac.Extensions.DependencyInjection?cacheSeconds=10800)](https://www.nuget.org/packages/Autofac.Extensions.DependencyInjection/)  [![nuget](https://img.shields.io/nuget/dt/Autofac.Extensions.DependencyInjection)](https://www.nuget.org/packages/Autofac.Extensions.DependencyInjection/) |  
