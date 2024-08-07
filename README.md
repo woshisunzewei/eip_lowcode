@@ -19,7 +19,7 @@
 官方网站：https://www.eipflow.com/
 
  **QQ群：594093505** 
- **<h1 style="color:red">进群获取数据库文件</h1>** 
+ **<h1 color="red">进群获取数据库文件</h1>** 
 
 [![](https://img.shields.io/badge/点击访问官方网站-eipflow.com-brightgreen)](https://www.eipflow.com/)  [![](https://img.shields.io/badge/点击加QQ群-594093505-red)](https://qm.qq.com/cgi-bin/qm/qr?k=O--SqKyF7yvjGXceIbVWRFUBIU2RNpb7&jump_from=webapi&authKey=Pu4IyVyDkfsUdT3YTobVpNo1DDLeDgU1qJ7n9skLidTBeE2aJT9T5hkeHv8L8xiD)
 
