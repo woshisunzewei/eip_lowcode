@@ -92,7 +92,7 @@ QQ群：594093505
 
 #### 🎨 系统演示  
 
-请访问【[https://www.coreshop.cn](https://www.coreshop.cn)】点击右上角演示查阅预览项目。  
+请访问【[https://www.eipflow.com](https://www.eipflow.com)】点击右上角演示查阅预览项目。  
 
 
 ### 🌈 技术选型
