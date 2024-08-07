@@ -103,19 +103,16 @@ QQ群：594093505
 | 技术 | 名称 | 地址 | 
 | --- | --- | --- | 
 | Ant Design Vue2  | 前端UI框架 |https://1x.antdv.com/components/layout-cn|  
-| Asp.net Core WebApi  | Api框架 |  [![nuget](https://img.shields.io/nuget/v/Microsoft.AspNet.WebApi.Core?cacheSeconds=10800)](https://www.nuget.org/packages/Microsoft.AspNet.WebApi.Core/)  [![nuget](https://img.shields.io/nuget/dt/Microsoft.AspNet.WebApi.Core)](https://www.nuget.org/packages/Microsoft.AspNet.WebApi.Core/) |  
-| Swagger2 | Api文档 | [![nuget](https://img.shields.io/nuget/v/Swashbuckle.AspNetCore?cacheSeconds=10800)](https://www.nuget.org/packages/Swashbuckle.AspNetCore/)  [![nuget](https://img.shields.io/nuget/dt/Swashbuckle.AspNetCore)](https://www.nuget.org/packages/Swashbuckle.AspNetCore/) |  
+| Asp.net Core 8.0| Api框架 |https://dotnet.microsoft.com/zh-cn/download/dotnet/8.0|  
+| Knife4UI| Api文档 |https://github.com/luoyunchong/IGeekFan.AspNetCore.Knife4jUI |  
 | AutoFac | IOC框架 |  [![nuget](https://img.shields.io/nuget/v/Autofac.Extensions.DependencyInjection?cacheSeconds=10800)](https://www.nuget.org/packages/Autofac.Extensions.DependencyInjection/)  [![nuget](https://img.shields.io/nuget/dt/Autofac.Extensions.DependencyInjection)](https://www.nuget.org/packages/Autofac.Extensions.DependencyInjection/) |  
-| SqlSugar | ORM框架 |  [![nuget](https://img.shields.io/nuget/v/SqlSugar?cacheSeconds=10800)](https://www.nuget.org/packages/SqlSugar/)  [![nuget](https://img.shields.io/nuget/dt/SqlSugar)](https://www.nuget.org/packages/SqlSugar/) |  
+| Dapper | ORM框架 |  https://github.com/phnx47/dapper-repositories.git |  
 | AutoMapper | 实体映射 |  [![nuget](https://img.shields.io/nuget/v/AutoMapper?cacheSeconds=10800)](https://www.nuget.org/packages/AutoMapper/)  [![nuget](https://img.shields.io/nuget/dt/AutoMapper)](https://www.nuget.org/packages/AutoMapper/) |  
-| DotLiquid | 模板引擎 |  [![nuget](https://img.shields.io/nuget/v/DotLiquid?cacheSeconds=10800)](https://www.nuget.org/packages/DotLiquid/)  [![nuget](https://img.shields.io/nuget/dt/DotLiquid)](https://www.nuget.org/packages/DotLiquid/) |  
+
 | Nlog | 日志组件 |  [![nuget](https://img.shields.io/nuget/v/NLog.Web.AspNetCore?cacheSeconds=10800)](https://www.nuget.org/packages/NLog.Web.AspNetCore/)  [![nuget](https://img.shields.io/nuget/dt/NLog.Web.AspNetCore)](https://www.nuget.org/packages/NLog.Web.AspNetCore/) |  
 | Redis | 数据缓存 |   [![nuget](https://img.shields.io/nuget/v/StackExchange.Redis?cacheSeconds=10800)](https://www.nuget.org/packages/StackExchange.Redis/)  [![nuget](https://img.shields.io/nuget/dt/StackExchange.Redis)](https://www.nuget.org/packages/StackExchange.Redis/) |  
 | Jwt | 授权认证 |  [![nuget](https://img.shields.io/nuget/v/IdentityModel?cacheSeconds=10800)](https://www.nuget.org/packages/IdentityModel/)  [![nuget](https://img.shields.io/nuget/dt/IdentityModel)](https://www.nuget.org/packages/IdentityModel/) |  
-| HangFire | 定时任务 |  [![nuget](https://img.shields.io/nuget/v/HangFire?cacheSeconds=10800)](https://www.nuget.org/packages/HangFire/)  [![nuget](https://img.shields.io/nuget/dt/HangFire)](https://www.nuget.org/packages/HangFire/) |  
-| Paylink  | 在线支付 |   [![nuget](https://img.shields.io/nuget/v/Essensoft.Paylink.WeChatPay?cacheSeconds=10800)](https://www.nuget.org/packages/Essensoft.Paylink.WeChatPay/)  [![nuget](https://img.shields.io/nuget/dt/Essensoft.Paylink.WeChatPay)](https://www.nuget.org/packages/Essensoft.Paylink.WeChatPay/) |  
-| SKIT.FlurlHttpClient.Wechat | 微信SDK |   [![nuget](https://img.shields.io/nuget/v/SKIT.FlurlHttpClient.Wechat.Api?cacheSeconds=10800)](https://www.nuget.org/packages/SKIT.FlurlHttpClient.Wechat.Api/)  [![nuget](https://img.shields.io/nuget/dt/SKIT.FlurlHttpClient.Wechat.Api)](https://www.nuget.org/packages/SKIT.FlurlHttpClient.Wechat.Api/) |  
-| LayUIAdmin | 后端管理UI框架 |  [![npm](https://img.shields.io/npm/v/layui.svg?sanitize=true)](https://www.layui.com/)  [![github](https://img.shields.io/github/stars/sentsin/layui.svg?style=social)](https://www.layui.com/) |  
+| Quartz.net | 定时任务 |   |  
 
 
 #### 🍭 后端技术看点
