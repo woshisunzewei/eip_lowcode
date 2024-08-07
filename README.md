@@ -103,6 +103,7 @@ QQ群：594093505
 | 技术 | 名称 | 地址 | 
 | --- | --- | --- | 
 | Ant Design Vue2  | 前端UI框架 |https://1x.antdv.com/components/layout-cn|  
+| Vxe Table  | 表格框架 |https://vxetable.cn/v3.8|  
 | Asp.net Core 8.0| Api框架 |https://dotnet.microsoft.com/zh-cn/download/dotnet/8.0|  
 | Knife4UI| Api文档 |https://github.com/luoyunchong/IGeekFan.AspNetCore.Knife4jUI |  
 | AutoFac | IOC框架 |  [![nuget](https://img.shields.io/nuget/v/Autofac.Extensions.DependencyInjection?cacheSeconds=10800)](https://www.nuget.org/packages/Autofac.Extensions.DependencyInjection/)  [![nuget](https://img.shields.io/nuget/dt/Autofac.Extensions.DependencyInjection)](https://www.nuget.org/packages/Autofac.Extensions.DependencyInjection/) |  
